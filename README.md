@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🎯 Goals: To be better and nice</p>
+<p align="left">🎯 Goals: To be better and nicer</p>
 
 ###
 
