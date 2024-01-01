@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="https://www.pexels.com/search/sunset/"  />
-</div>
-
-###
-
 <h1 align="center">Hello Visitor 👋</h1>
 
 ###
@@ -16,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 Goals: To be better and nicer</p>
+<p align="left">🎯 Goals: To be better and nice</p>
 
 ###
 
@@ -36,13 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
